@@ -1,0 +1,5 @@
+# Client Dependencies for Coin Collector Multiplayer Game
+# Python 3.10+ required
+
+pygame>=2.5.0
+websockets>=12.0

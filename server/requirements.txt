@@ -1,0 +1,4 @@
+# Server Dependencies for Coin Collector Multiplayer Game
+# Python 3.10+ required
+
+websockets>=12.0

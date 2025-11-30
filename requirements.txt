@@ -1,0 +1,7 @@
+# Combined Dependencies for Coin Collector Multiplayer Game
+# Python 3.10+ required
+#
+# Install with: pip install -r requirements.txt
+
+pygame>=2.5.0
+websockets>=12.0
